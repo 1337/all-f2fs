@@ -8,6 +8,10 @@ In a terminal, go to where this file is, and run "python all-f2fs.py".
 
 ## Compatibility
 
+Any computer running Python 2.7 will have no issues.
+
+## Device Compatibility
+
 Supposed to be the same as [The "Convert To F2FS" App](https://play.google.com/store/apps/details?id=com.runnerway.converttof2fs):
 
 * Nexus 4
